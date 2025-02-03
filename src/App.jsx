@@ -1,5 +1,6 @@
 import Home from "./components/Home"
 import './App.css'
+import About from "./components/About"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <h1 className="pranav">Weather App Pranav</h1>
       <Home />
+      <About/>
     </>
   )
 }
