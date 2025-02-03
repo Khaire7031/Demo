@@ -8,6 +8,7 @@ function App() {
     <>
       <h1 className="pranav">Weather App Pranav</h1>
       <Home />
+      <Home />
       <About/>
     </>
   )
