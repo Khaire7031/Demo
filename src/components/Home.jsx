@@ -10,6 +10,24 @@ export default function Home() {
             <div>Khaire</div>
             <div>Pranav</div>
             <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
+            <div>Pranav</div>
+            <div>Khaire</div>
         </div>
     );
 }
